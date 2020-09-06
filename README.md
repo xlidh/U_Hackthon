@@ -1,5 +1,5 @@
 # U_Hackthon - 《一起打年糕》
-36h Unity Project with [WDD](https://github.com/poiuytxw)
+36h Unity Project with WDD
 
 《一起打年糕》是一个由两人团队基于Unity以及C#语言开发的双人线下合作小游戏。游戏的灵感来源是先前网络上爆火的两位日本师傅非人类手速打年糕的视频: https://www.bilibili.com/video/BV19x411H77B?from=search&seid=4108542964501428949。
 视频中师傅完美的配合和超快的手速给予了我们灵感。
